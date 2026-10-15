@@ -324,7 +324,7 @@ On some phones the route differs:
     <img src="/assets/img/samsung/s9_8.png">
     <figcaption>2. Tap on <strong>Advanced</strong>. </figcaption>
   </figure>
-
+(
   <figure>
     <img src="/assets/img/samsung/s9_9.png">
     <figcaption>3. Disable <strong>Auto-optimization</strong>. </figcaption>
